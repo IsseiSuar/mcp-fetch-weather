@@ -1,0 +1,20 @@
+# node modules
+node_modules/
+
+# logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# dotenv
+.env
+.env.local
+
+# TypeScript
+dist/
+build/
+*.tsbuildinfo
+
+# OS
+.DS_Store
