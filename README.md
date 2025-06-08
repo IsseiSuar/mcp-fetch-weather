@@ -25,6 +25,6 @@ This project exposes a tool (`fetch-weather`) that allows you to obtain the curr
 ## 🔧 Installation
 
 ```bash
-git clone git@github-personal:IsseiSuar/mcp-fetch-weather.git
+git clone git@github.com:IsseiSuar/mcp-fetch-weather.git
 cd mcp-fetch-weather
-pnpm install  # o npm install
+pnpm install  # or npm install
